@@ -8,3 +8,7 @@ New headings have been added.
 ``` R
 setwd("C:/Users/")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world yay
